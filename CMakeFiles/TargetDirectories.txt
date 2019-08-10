@@ -1,0 +1,9 @@
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/edit_cache.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/BelkanSG.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/GLUILib.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/Belkan.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/obj3DLib.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/motorLib.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/modelosBelkanLib.dir
+/home/alvaro/Escritorio/universidad/IA/practica2/CMakeFiles/comportamientosLib.dir
